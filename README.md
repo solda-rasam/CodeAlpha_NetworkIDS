@@ -82,4 +82,4 @@ sudo python3 nids.py
 ============================================================
 
 ```
-*Disclaimer: This tool is intended strictly for educational purposes, authorized security testing, and network administrative analysis.*
+
